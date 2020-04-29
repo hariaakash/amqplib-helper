@@ -1,6 +1,6 @@
 {
   "name": "amqplib-helper",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Reconnect logic for amqplib with wrapper for rpc send.",
   "main": "lib/index.js",
   "scripts": {
