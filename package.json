@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "amqplib": "^0.5.5",
-    "nanoid": "^2.1.11"
+    "nanoid": "^3.1.31"
   }
 }
